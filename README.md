@@ -14,8 +14,6 @@
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Giovaniavs/Moveit?color=rgb(89,101,224)">
 
   <img alt="Contributors" src="https://img.shields.io/github/contributors/Giovaniavs/Moveit?color=rgb(89,101,224)">
-
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=rgb(89,101,224)">
 </p>
 
 ---
