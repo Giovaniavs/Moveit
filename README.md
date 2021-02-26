@@ -25,13 +25,20 @@ https://moveit-brown-phi.vercel.app/
 </p>
 
 ---
+<br>
+
+- [Mockup](https://www.figma.com/file/vRbW1u0CEZuG2zE6bU5qLg/?viewer=1&node-id=)
+- [Deployed on Vercel](https://moveit-brown-phi.vercel.app/)
+
+<br>
+
+---
 
 ## Table of Contents
 
 <ul>
   <li><a href="#-getting-started">Getting Started</a></li>
   <li><a href="#-features">Features</a></li>
-  <li><a href="#-contributing">Contributing</a></li>
   <li><a href="#-support">Support</a></li>
   <li><a href="#-license">License</a></li>
 </ul>
