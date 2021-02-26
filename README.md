@@ -3,6 +3,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Mockup
 https://www.figma.com/file/vRbW1u0CEZuG2zE6bU5qLg/?viewer=1&node-id=
 
+## Deployed on Vercel
+https://moveit-brown-phi.vercel.app/
+
 ## Getting Started
 
 First, run the development server:
