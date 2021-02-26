@@ -1,9 +1,3 @@
-## Mockup
-https://www.figma.com/file/vRbW1u0CEZuG2zE6bU5qLg/?viewer=1&node-id=
-
-## Deployed on Vercel
-https://moveit-brown-phi.vercel.app/
-
 <h1 align="center">
   <a href="https://moveit-brown-phi.vercel.app/">
     <img alt="Move.it Logo" src="./public/logo-full.svg" />
