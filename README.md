@@ -80,17 +80,17 @@ https://github.com/Giovaniavs/Moveit
 
 <h2 align="center"> Start your exercise! </h2>
 <p align="center">
-  <img src="./gifs/sample1.gif" width="45%" />
+  <img src="./gifs/sample1.gif" width="65%" />
 </p>
 <br>
 <h2 align="center"> Get experience doing the activities! </h2>
 <p align="center">
-  <img src="./gifs/sample2.gif" width="45%" />
+  <img src="./gifs/sample2.gif" width="65%" />
 </p>
 <br>
 <h2 align="center"> And, finally, Level up! </h2>
 <p align="center">
-  <img src="./gifs/sample3.gif" width="45%" />
+  <img src="./gifs/sample3.gif" width="65%" />
 </p>
 <br>
 
