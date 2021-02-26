@@ -34,7 +34,6 @@
   <li><a href="#-getting-started">Getting Started</a></li>
   <li><a href="#-features">Features</a></li>
   <li><a href="#-support">Support</a></li>
-  <li><a href="#-license">License</a></li>
 </ul>
 
 ---
@@ -108,10 +107,3 @@ Reach out to me at one of the following places!
 
 - Linkedin at [Giovani Albuquerque](https://www.linkedin.com/in/giovani-albuquerque-76a6ab1b6/)
 
----
-
-## 📝 License
-
-<img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361?color=rgb(89,101,224)">
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
